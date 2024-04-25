@@ -8,4 +8,4 @@ git add . - adds everything in the current directory
 git commint - commiting the file to the git sever and making it updated 
 git commint -m - commiting and adding a message
 *message is important for knowing the point of last use for start point use "initial commit"
-git log - giving information about last commit
+git log - giving information about all of my commits`
